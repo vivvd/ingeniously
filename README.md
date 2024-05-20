@@ -17,13 +17,7 @@ Ingeniously is a React-based web application that provides you with a random son
 
 ## Usage
 
-To run the application locally:
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Install dependencies by running `npm install` or `yarn install`.
-4. Start the development server with `npm start` or `yarn start`.
-5. Open your browser and go to `http://localhost:3000` to view the application.
+Available at https://ingeniously-vivvd.vercel.app/
 
 ## Technologies Used
 
@@ -31,11 +25,8 @@ To run the application locally:
 - JavaScript
 - Spotify Web API
 - Random Word API
+- Vercel 
 
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions, feature requests, or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
